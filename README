@@ -1,0 +1,9 @@
+This is a GUI for the powerful command line video converter, FFmpeg.
+
+I know that there are many video converters available online, but ever since I used one as a little kid to convert videos for my iPod… well, I wanted to make one for myself. I learned how to use the many features in the Java Swing package and also implement the runtime environment by researching the appropriate libraries and reading the documentation for FFmpeg.
+
+Currently, this appliaction can: display a log which keeps track of everything the user has done (the user may also save the log onto his computer); convert up to ten files at one time and display which ones the user has selected in another pane; and, of course, save the video in many formats by asking for the user’s preference. There is still a lot to be done, including putting in audio and video options (like which codec to use), displaying the output for the FFmpeg window, and improving the user interface.
+
+This was the first project that I used any GUI in.
+
+Note: Windows only.
