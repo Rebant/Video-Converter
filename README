@@ -1,3 +1,7 @@
+Sorry for no jar file - I am having some trouble making them!
+Give me some time and you should have it working.
+As always, you can simply use the java command to dislpay the GUI.
+------------------------------------------------------------------
 This is a GUI for the powerful command line video converter, FFmpeg.
 
 I know that there are many video converters available online, but ever since I used one as a little kid to convert videos for my iPod… well, I wanted to make one for myself. I learned how to use the many features in the Java Swing package and also implement the runtime environment by researching the appropriate libraries and reading the documentation for FFmpeg.
